@@ -93,6 +93,7 @@ void leapYear(int year){
 	//checks if year input was 0
 
 	printf("The value of the input is: %hu",in);
+	printf("There needs to be a way here to test for negative input -- test comment for lab 3");
 
 	if(year == 0){
 		printf("\nYear can not equal 0!\n\n");
